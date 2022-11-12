@@ -17,3 +17,8 @@ The CC0Tree database is the backend for keeping track of that. Everything is fre
 Eventually I'd love a VR tree/graph to be able to touch nodes and hear the music for each one, like an immersive and more visual WhoSampled.com
 
 Any front end devs are free to read the data and present however they want though.
+
+
+Up on Goerli now: [https://goerli.etherscan.io/address/0x13a4eceF056ca18Afab15202c1682E692faE03D5](https://goerli.etherscan.io/address/0x13a4eceF056ca18Afab15202c1682E692faE03D5#code)
+
+still having issues w the For Loop functions (GetDerivativesOf/GetOriginalsOf/GetRoot)
